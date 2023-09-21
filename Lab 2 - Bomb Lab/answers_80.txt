@@ -1,0 +1,6 @@
+h
+0 6 // always the same
+0 1 1 2 3 5 // always the same
+zxu
+66 2
+2 5 1 6 3 4
